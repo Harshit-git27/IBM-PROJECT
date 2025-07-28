@@ -1,10 +1,5 @@
-Project Decription
+Project Decription:-
 Why I did this
-
-Honestly? I was bored and wanted to play around with ensemble regression models. I figured, "Hey, salaries are influenced by stuff like experience, age, and education... let’s see if I can teach a model to guess them." Only problem? No real data on hand. So I made my own.
-
-This isn’t meant to change the world—it’s just a fun little side project to test out some machine learning stuff and see what happens when you give models half-decent fake data.
-
  What’s going on here?
 
 1. **I made fake employees.**
@@ -47,8 +42,6 @@ If I had more time...
 * Do proper cross-validation instead of just one train-test split.
 * Maybe mess with stacking models instead of just voting.
 
-TL;DR
-
-I made fake employee data and tried to predict their salaries using different regression models. It's not production code—just a sandbox project for fun and learning. And honestly? Pretty proud of how it turned out.
+( I made fake employee data and tried to predict their salaries using different regression models. It's not production code—just a sandbox project for fun and learning. And honestly? Pretty proud of how it turned out. )
 
 
